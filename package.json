@@ -1,0 +1,5 @@
+{
+  "name": "relezr-playground",
+  "version": "0.1.0",
+  "scripts": { "start": "node hello.js" }
+}
